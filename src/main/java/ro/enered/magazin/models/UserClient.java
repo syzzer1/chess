@@ -24,5 +24,8 @@ public class UserClient {
                   ", adresa='" + adresa + '\'' +
 
                   '}';
+// asta e doar sa nu mai pui sys out in consola si sa ti arate un client
+          //nu afecteaza front end
+
      }
 }
